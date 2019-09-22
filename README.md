@@ -1,3 +1,5 @@
+Repository archived, please consider: [https://github.com/otaviof/path-helper](https://github.com/otaviof/path-helper)
+
 # path_helper
 
 Simple replacement of Apple's `/usr/libexec/path_helper` using bash script which will prepare `PATH` to suit [Homebrew](http://brew.sh/) project.
